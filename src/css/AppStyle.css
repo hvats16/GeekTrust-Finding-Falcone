@@ -1,0 +1,50 @@
+.app {
+  text-align: center;
+}
+
+.header {
+  color: #162054;
+  font-size: 30px;
+  padding: 10px;
+  margin: 15px;
+}
+
+.destination {
+  padding: 5%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 20px;
+  min-width: 5%;
+}
+
+.unselected {
+  position: relative !important;
+  color: red !important;
+}
+
+.selected {
+  position: relative !important;
+}
+
+.vehicleList {
+  padding-top: 20px;
+  text-align: left;
+}
+
+.error {
+  text-align: center;
+  margin-top: 10%;
+  padding: 10px;
+  position: absolute;
+  left: 30%;
+  right: 30%;
+  top: 10%;
+}
+
+.time {
+  color: #3f51b5;
+}
+
+.paper {
+  margin-right: 15px;
+}
